@@ -1,0 +1,9 @@
+C:\Users\vibhu.mishra\Documents\Visual Studio 2013\Projects\BundlingAndMinificiation\BundlingAndMinificiation\obj\Debug\BundlingAndMinificiation.csprojResolveAssemblyReference.cache
+C:\Users\vibhu.mishra\Documents\Visual Studio 2013\Projects\BundlingAndMinificiation\BundlingAndMinificiation\bin\BundlingAndMinificiation.dll.config
+C:\Users\vibhu.mishra\Documents\Visual Studio 2013\Projects\BundlingAndMinificiation\BundlingAndMinificiation\bin\BundlingAndMinificiation.dll
+C:\Users\vibhu.mishra\Documents\Visual Studio 2013\Projects\BundlingAndMinificiation\BundlingAndMinificiation\bin\BundlingAndMinificiation.pdb
+C:\Users\vibhu.mishra\Documents\Visual Studio 2013\Projects\BundlingAndMinificiation\BundlingAndMinificiation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vibhu.mishra\Documents\Visual Studio 2013\Projects\BundlingAndMinificiation\BundlingAndMinificiation\bin\System.Web.Optimization.dll
+C:\Users\vibhu.mishra\Documents\Visual Studio 2013\Projects\BundlingAndMinificiation\BundlingAndMinificiation\bin\System.Web.Optimization.xml
+C:\Users\vibhu.mishra\Documents\Visual Studio 2013\Projects\BundlingAndMinificiation\BundlingAndMinificiation\obj\Debug\BundlingAndMinificiation.dll
+C:\Users\vibhu.mishra\Documents\Visual Studio 2013\Projects\BundlingAndMinificiation\BundlingAndMinificiation\obj\Debug\BundlingAndMinificiation.pdb
